@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DataTransfer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_data">Enter data</string>
+    <string name="fragment_a">Fragment A</string>
+    <string name="send_data">Send Data</string>
+    <string name="fragment_b">Fragment B</string>
+    <string name="received_data_will_appear_here">Received Data will appear here</string>
+</resources>

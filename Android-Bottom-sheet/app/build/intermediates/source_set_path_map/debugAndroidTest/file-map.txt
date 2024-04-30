@@ -1,0 +1,6 @@
+com.example.bottomsheetexample.test.app-annotation-experimental-1.3.0-0 /Users/banja/.gradle/caches/transforms-3/370dc6df9c1ddfc3c2f9320d443702d0/transformed/annotation-experimental-1.3.0/res
+com.example.bottomsheetexample.test.app-core-1.5.0-1 /Users/banja/.gradle/caches/transforms-3/c8607414e9ae04aaf80b1bde0a39360d/transformed/core-1.5.0/res
+com.example.bottomsheetexample.test.app-androidTest-2 /Users/banja/AndroidStudioProjects/Android-Bottom-sheet/app/build/generated/res/resValues/androidTest/debug
+com.example.bottomsheetexample.test.app-mergeDebugAndroidTestResources-3 /Users/banja/AndroidStudioProjects/Android-Bottom-sheet/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.bottomsheetexample.test.app-mergeDebugAndroidTestResources-4 /Users/banja/AndroidStudioProjects/Android-Bottom-sheet/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.bottomsheetexample.test.app-merged_res-5 /Users/banja/AndroidStudioProjects/Android-Bottom-sheet/app/build/intermediates/merged_res/debugAndroidTest

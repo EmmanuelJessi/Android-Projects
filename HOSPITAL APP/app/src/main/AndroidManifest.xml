@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/hospi"
+        android:label="Hospital System"
+        android:roundIcon="@drawable/hospi"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Medicine" />
+
+        <activity android:name=".Sign_Up" />
+        <activity android:name=".Supplier" />
+        <activity android:name=".invoice" />
+        <activity android:name=".Activity_MedInvoice" />
+        <activity android:name=".aboutus" />
+        <activity android:name=".problem" />
+        <activity android:name=".company" />
+        <activity android:name=".account" />
+        <activity android:name=".departments" />
+        <activity android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>
